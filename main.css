@@ -1,0 +1,87 @@
+.textbro{
+  font-family: fantasy;
+  text-align: center;
+}
+/* Home Image */
+.abhe2{
+    width: 100%;
+    height: 70vh;
+
+}
+
+/* Africa Map */
+.oho{
+    margin: 0px 0 100px 50%;
+}
+
+/* Card 2 */
+.bhai{
+  margin: 500px;
+} 
+
+/* Poster */
+.posters{
+  display: flex;
+}
+
+.poster1{
+  margin: 0 0 40% 20%;
+}
+.poster2{
+  margin: 0 0 40% 15%;
+}
+
+/* poster heading */
+.postext{
+  margin: 0 0 250px 0;
+  font-size: 200px;
+  text-align: center;
+  font-weight: bold;
+  font-family: fantasy;
+  display: block;
+}
+
+.hrlol{
+  margin: 0 0 10% 0;
+}
+/* report settings */
+.reportboi{
+ margin: 5% 0 0 30%;
+}
+
+.brothano{
+  font-family: cursive;
+  font-size: 75px;
+  font-weight: lighter;
+}
+
+/* Buttons */
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 10px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+    
+  margin: 50px 0 50px 0;
+  text-align: center;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
